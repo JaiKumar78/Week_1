@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class EcommerceSearchPlatform {
+public class Main {
 
     public static void main(String[] args) {
         // Create an array of products
